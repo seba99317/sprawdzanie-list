@@ -1,0 +1,1 @@
+Prosta aplikacja Windows do sprawdzania działających stacji radiowych z pliku CSV lub tekstowego (np. playlist.csv). Usuwa słowo „Radio” z nazw stacji (np. Radio Eska → Eska), sortuje wyniki alfabetycznie i zapisuje działające stacje do pliku output_stations.csv. Wyświetla kompaktowy interfejs (600x500) z paskiem postępu, etykietą „Sprawdzono X/Y stacji” 
