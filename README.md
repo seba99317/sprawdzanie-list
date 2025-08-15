@@ -1,5 +1,7 @@
 🌟 Sprawdzanie i tworzenie własnej listy stacji radiowych! 🌟
 
+aktualizacja dodano szukanie radia i wysyłanie do niego listy 
+
 Ta prosta aplikacja Windows pozwala zarządzać stacjami radiowymi w łatwy sposób:
 
 Wczytywanie własnego pliku – możesz załadować listę stacji z pliku CSV lub TXT (np. playlist.csv).
