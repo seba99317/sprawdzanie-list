@@ -29,3 +29,6 @@ Edytować listy, dodawać nowe stacje i usuwać niepotrzebne.
 Eksportować gotowe listy do odtwarzaczy lub dalszego użytku.
 
 ✅ W skrócie: wczytaj plik lub pobierz listę z kraju, zaznacz działające stacje, stwórz swoją listę i zapisz ją – wszystko w prosty, szybki sposób!
+
+Jeśli moja aplikacja ułatwia ci życie 🤣🤣🤣 pomogła zawsze można się coś napić 
+https://buycoffee.to/seba99317
