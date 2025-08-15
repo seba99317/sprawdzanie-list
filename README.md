@@ -38,6 +38,8 @@ https://buycoffee.to/seba99317
 
 🌟 Checking and Creating Your Own Radio Station List! 🌟
 
+"Update: We've added the ability to search for radios and send your list directly to them."
+
 This simple Windows application lets you manage radio stations easily:
 
 Load your own file – you can load a list of stations from a CSV or TXT file (e.g., playlist.csv).
