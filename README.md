@@ -1,63 +1,31 @@
-Co obecnie możesz robić w aplikacji:
+🌟 Sprawdzanie i tworzenie własnej listy stacji radiowych! 🌟
 
-Wczytywanie pliku z listą stacji
+Ta prosta aplikacja Windows pozwala zarządzać stacjami radiowymi w łatwy sposób:
 
-Obsługuje pliki CSV i TXT.
+Wczytywanie własnego pliku – możesz załadować listę stacji z pliku CSV lub TXT (np. playlist.csv).
 
-Każda linia może zawierać:
+Sprawdzanie działających stacji – program automatycznie testuje, które stacje działają, i usuwa te niedziałające.
 
-Nazwę stacji + URL + (opcjonalnie) głośność, rozdzielone tabulatorem.
+Czyszczenie nazw stacji – automatycznie usuwa słowo „Radio” z nazwy (np. Radio Eska → Eska) i sortuje listę alfabetycznie.
 
-Jeśli URL jest poprawny, aplikacja go dodaje do listy.
+Tworzenie własnej listy – możesz pobrać listę stacji z wybranego kraju, zaznaczyć interesujące Cię stacje i stworzyć własną listę stacji.
 
-Automatyczne sprawdzanie działających stacji
+Interfejs kompaktowy i intuicyjny – wszystko w jednym oknie (600x500 px) z paskiem postępu i etykietą „Sprawdzono X/Y stacji”.
 
-Każdy URL jest testowany pod kątem odpowiedzi serwera i typu audio.
+Podgląd listy i edycja – łatwo przeglądać wszystkie stacje, dodawać nowe lub usuwać wybrane.
 
-Niedziałające stacje są odfiltrowywane po zakończeniu sprawdzania.
+Zapis wyników – działające stacje zapisujesz jednym kliknięciem do pliku output_stations.csv.
 
-Pasek postępu pokazuje procent sprawdzonych stacji.
+💡 Co można robić z aplikacją:
 
-Etykieta „Sprawdzono X/Y stacji” informuje, ile stacji zostało sprawdzonych.
+Tworzyć własne playlisty radiowe z internetu.
 
-Filtrowanie i porządkowanie
+Filtruj działające stacje i unikaj martwych linków.
 
-Słowo „Radio” jest usuwane z nazw stacji, np. Radio Eska → Eska.
+Pobierać stacje z różnych krajów i tworzyć spersonalizowane listy.
 
-Działające stacje są sortowane alfabetycznie po nazwie.
+Edytować listy, dodawać nowe stacje i usuwać niepotrzebne.
 
-Edytowanie listy stacji
+Eksportować gotowe listy do odtwarzaczy lub dalszego użytku.
 
-Możesz otworzyć okno do edycji listy.
-
-Zaznaczać, odznaczać lub usuwać stacje.
-
-Dodawać nowe stacje ręcznie (nazwa + URL).
-
-Zapis listy do pliku
-
-Zapisuje działające stacje do output_stations.csv na pulpicie.
-
-Plik zawiera nazwę stacji, URL i głośność.
-
-Logi działania
-
-Wszystkie akcje (np. „URL nieprawidłowy”, „Stacja działa”) są logowane w oknie aplikacji.
-
-Reset aplikacji
-
-Czyści listę stacji, logi i pasek postępu.
-
-Możesz wczytać nowy plik od początku.
-
-Co możesz robić w praktyce (użytkownik końcowy)
-
-Wczytać własną playlistę z URL-ami i sprawdzić, które stacje działają.
-
-Ręcznie edytować listę stacji, usuwać lub dodawać nowe.
-
-Zapis wyników w czystym pliku CSV do dalszego wykorzystania np. w odtwarzaczach lub aplikacjach do streamingu.
-
-Monitorować postęp sprawdzania stacji w czasie rzeczywistym.
-
-Usunąć duplikaty URL-i automatycznie.
+✅ W skrócie: wczytaj plik lub pobierz listę z kraju, zaznacz działające stacje, stwórz swoją listę i zapisz ją – wszystko w prosty, szybki sposób!
