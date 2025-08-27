@@ -1,74 +1,96 @@
-🌟 Sprawdzanie i tworzenie własnej listy stacji radiowych! 🌟
+📻 Aplikacja „Sprawdzanie listy stacji radiowych by SEBA99317”
 
-aktualizacja dodano szukanie radia i wysyłanie do niego listy 
+Twoje narzędzie do łatwego zarządzania i sprawdzania stacji radiowych online.
+Dzięki aplikacji szybko zweryfikujesz, które stacje działają, a które są niedostępne, a także przerobisz playlisty M3U i M3U8 na wygodny format CSV.
 
-Ta prosta aplikacja Windows pozwala zarządzać stacjami radiowymi w łatwy sposób:
+✨ Funkcje:
 
-Wczytywanie własnego pliku – możesz załadować listę stacji z pliku CSV lub TXT (np. playlist.csv).
+📂 Obsługa plików CSV, TXT, M3U, M3U8
 
-Sprawdzanie działających stacji – program automatycznie testuje, które stacje działają, i usuwa te niedziałające.
+🔄 Konwersja M3U/M3U8 → CSV
 
-Czyszczenie nazw stacji – automatycznie usuwa słowo „Radio” z nazwy (np. Radio Eska → Eska) i sortuje listę alfabetycznie.
+🔍 Automatyczne sprawdzanie działania stacji
 
-Tworzenie własnej listy – możesz pobrać listę stacji z wybranego kraju, zaznaczyć interesujące Cię stacje i stworzyć własną listę stacji.
+📊 Czytelna tabela z listą stacji (nazwa, adres URL, głośność)
 
-Interfejs kompaktowy i intuicyjny – wszystko w jednym oknie (600x500 px) z paskiem postępu i etykietą „Sprawdzono X/Y stacji”.
+🌍 Wyszukiwanie stacji według kraju
 
-Podgląd listy i edycja – łatwo przeglądać wszystkie stacje, dodawać nowe lub usuwać wybrane.
+📡 Wykrywanie radia w sieci lokalnej i wysyłanie listy do urządzenia
 
-Zapis wyników – działające stacje zapisujesz jednym kliknięciem do pliku output_stations.csv.
+💾 Zapisywanie listy do CSV
 
-💡 Co można robić z aplikacją:
+♻️ Reset i szybki restart aplikacji
 
-Tworzyć własne playlisty radiowe z internetu.
+🔔 Sprawdzanie aktualizacji
 
-Filtruj działające stacje i unikaj martwych linków.
+☕ Opcja wsparcia autora („Postaw kawę”)
 
-Pobierać stacje z różnych krajów i tworzyć spersonalizowane listy.
+👥 Dla kogo?
 
-Edytować listy, dodawać nowe stacje i usuwać niepotrzebne.
+Dla osób korzystających z radia internetowego 🎶
 
-Eksportować gotowe listy do odtwarzaczy lub dalszego użytku.
+Dla użytkowników chcących utrzymać listę stacji zawsze aktualną
 
-✅ W skrócie: wczytaj plik lub pobierz listę z kraju, zaznacz działające stacje, stwórz swoją listę i zapisz ją – wszystko w prosty, szybki sposób!
+Dla tych, którzy chcą szybko przekonwertować playlisty M3U/M3U8 na CSV i wysłać je do swojego radia 📡
 
-Jeśli moja aplikacja ułatwia ci życie 🤣🤣🤣 pomogła zawsze można się coś napić 
-https://buycoffee.to/seba99317
+✅ Zalety:
 
+Oszczędzasz czas ⏳ – program sam sprawdza działające linki
 
-🌟 Checking and Creating Your Own Radio Station List! 🌟
+Zyskujesz przejrzysty format CSV z dowolnej playlisty M3U/M3U8 🔄
 
-"Update: We've added the ability to search for radios and send your list directly to them."
+Obsługujesz różne formaty plików w jednym miejscu 🔗
 
-This simple Windows application lets you manage radio stations easily:
+Prosty interfejs 👆 – wystarczy kilka kliknięć
 
-Load your own file – you can load a list of stations from a CSV or TXT file (e.g., playlist.csv).
+📌 Krótki opis (PL):
+👉 Wczytaj playlistę (CSV, TXT, M3U, M3U8) 📂, sprawdź które stacje działają 📡, a program automatycznie przerobi M3U/M3U8 na CSV 💾.
 
-Check working stations – the program automatically tests which stations are working and removes the ones that aren’t.
+🇬🇧 English
+📻 Application “Radio Station List Checker by SEBA99317”
 
-Clean station names – automatically removes the word “Radio” from names (e.g., Radio Eska → Eska) and sorts the list alphabetically.
+Your tool for easy management and validation of online radio stations.
+Quickly check which stations are active, which are not, and convert M3U/M3U8 playlists into CSV format.
 
-Create your own list – download stations from a selected country, pick the ones you like, and create your personalized radio list.
+✨ Features:
 
-Compact and intuitive interface – everything in a single window (600x500 px) with a progress bar and a label “Checked X/Y stations.”
+📂 Supports CSV, TXT, M3U, M3U8 files
 
-Preview and edit the list – easily browse all stations, add new ones, or remove selected stations.
+🔄 Convert M3U/M3U8 → CSV
 
-Save results – save working stations with a single click to output_stations.csv.
+🔍 Automatic station availability checking
 
-💡 What you can do with the app:
+📊 Clear table view (name, URL, volume)
 
-Create your own radio playlists from the internet.
+🌍 Search stations by country
 
-Filter working stations and avoid dead links.
+📡 Detect local radio devices and send playlists directly
 
-Download stations from different countries and create custom lists.
+💾 Save lists to CSV
 
-Edit lists, add new stations, and remove unwanted ones.
+♻️ Reset and restart the app instantly
 
-Export ready-made lists for media players or further use.
+🔔 Automatic update checking
 
+☕ Support the author (“Buy me a coffee”)
 
-✅ In short: load a file or download a list by country, select working stations, create your own list, and save it – all in a simple, fast way!
+👥 Who is it for?
 
-If my app makes your life easier 🤣🤣🤣 you can always treat me to a coffee: https://buycoffee.to/seba99317
+For internet radio users 🎶
+
+For those who want to keep their playlists always updated
+
+For anyone who needs to convert M3U/M3U8 playlists to CSV and send them to their radio 📡
+
+✅ Benefits:
+
+Save time ⏳ – the app checks working links automatically
+
+Get a clean CSV file from any M3U/M3U8 playlist 🔄
+
+Manage multiple file formats in one place 🔗
+
+Simple and intuitive interface 👆
+
+📌 Short description (EN):
+👉 Load playlists (CSV, TXT, M3U, M3U8) 📂, check which stations work 📡, and instantly convert M3U/M3U8 into CSV 💾.
