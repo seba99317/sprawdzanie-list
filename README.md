@@ -1,15 +1,16 @@
+🇵🇱 Polski
 📻 Aplikacja „Sprawdzanie listy stacji radiowych by SEBA99317”
 
 Twoje narzędzie do łatwego zarządzania i sprawdzania stacji radiowych online.
-Dzięki aplikacji szybko zweryfikujesz, które stacje działają, a które są niedostępne, a także przerobisz playlisty M3U i M3U8 na wygodny format CSV.
+Od teraz żaden problem z playlistami M3U i M3U8 – aplikacja wczyta je, sprawdzi wszystkie linki i automatycznie przerobi na wygodny format CSV.
 
 ✨ Funkcje:
 
 📂 Obsługa plików CSV, TXT, M3U, M3U8
 
-🔄 Konwersja M3U/M3U8 → CSV
+🔄 Wczytywanie i konwersja M3U/M3U8 → CSV (po sprawdzeniu stacji)
 
-🔍 Automatyczne sprawdzanie działania stacji
+🔍 Automatyczne testowanie działania stacji
 
 📊 Czytelna tabela z listą stacji (nazwa, adres URL, głośność)
 
@@ -27,36 +28,36 @@ Dzięki aplikacji szybko zweryfikujesz, które stacje działają, a które są n
 
 👥 Dla kogo?
 
-Dla osób korzystających z radia internetowego 🎶
+🎶 Dla każdego, kto korzysta z radia internetowego
 
-Dla użytkowników chcących utrzymać listę stacji zawsze aktualną
+🛠️ Dla osób chcących mieć zawsze sprawdzoną i aktualną listę
 
-Dla tych, którzy chcą szybko przekonwertować playlisty M3U/M3U8 na CSV i wysłać je do swojego radia 📡
+📡 Dla użytkowników, którzy chcą szybko przerobić M3U/M3U8 na CSV i wysłać do swojego radia
 
 ✅ Zalety:
 
-Oszczędzasz czas ⏳ – program sam sprawdza działające linki
+⏳ Oszczędzasz czas – program sam sprawdza linki
 
-Zyskujesz przejrzysty format CSV z dowolnej playlisty M3U/M3U8 🔄
+🔄 Z dowolnej playlisty M3U/M3U8 uzyskasz gotowy plik CSV
 
-Obsługujesz różne formaty plików w jednym miejscu 🔗
+📋 Zawsze masz czystą i aktualną listę stacji
 
-Prosty interfejs 👆 – wystarczy kilka kliknięć
+👆 Prosty interfejs – wystarczy kilka kliknięć
 
 📌 Krótki opis (PL):
-👉 Wczytaj playlistę (CSV, TXT, M3U, M3U8) 📂, sprawdź które stacje działają 📡, a program automatycznie przerobi M3U/M3U8 na CSV 💾.
+👉 Masz playlistę M3U lub M3U8? 📂 Teraz to żaden problem – aplikacja ją wczyta, sprawdzi stacje 📡 i przerobi na CSV 💾.
 
 🇬🇧 English
 📻 Application “Radio Station List Checker by SEBA99317”
 
 Your tool for easy management and validation of online radio stations.
-Quickly check which stations are active, which are not, and convert M3U/M3U8 playlists into CSV format.
+Now no problem with M3U or M3U8 playlists – the app loads them, checks all stations, and instantly converts them into CSV.
 
 ✨ Features:
 
 📂 Supports CSV, TXT, M3U, M3U8 files
 
-🔄 Convert M3U/M3U8 → CSV
+🔄 Load & convert M3U/M3U8 → CSV (after checking stations)
 
 🔍 Automatic station availability checking
 
@@ -64,11 +65,11 @@ Quickly check which stations are active, which are not, and convert M3U/M3U8 pla
 
 🌍 Search stations by country
 
-📡 Detect local radio devices and send playlists directly
+📡 Detect radios in local network and send playlists directly
 
 💾 Save lists to CSV
 
-♻️ Reset and restart the app instantly
+♻️ Reset and quick restart
 
 🔔 Automatic update checking
 
@@ -76,21 +77,21 @@ Quickly check which stations are active, which are not, and convert M3U/M3U8 pla
 
 👥 Who is it for?
 
-For internet radio users 🎶
+🎶 For anyone who listens to internet radio
 
-For those who want to keep their playlists always updated
+🛠️ For users who want an always up-to-date, working station list
 
-For anyone who needs to convert M3U/M3U8 playlists to CSV and send them to their radio 📡
+📡 For those who need to quickly convert M3U/M3U8 playlists into CSV and send them to their radio
 
 ✅ Benefits:
 
-Save time ⏳ – the app checks working links automatically
+⏳ Save time – the app checks links automatically
 
-Get a clean CSV file from any M3U/M3U8 playlist 🔄
+🔄 Turn any M3U/M3U8 playlist into a clean CSV file
 
-Manage multiple file formats in one place 🔗
+📋 Always keep your station list fresh and working
 
-Simple and intuitive interface 👆
+👆 Simple interface – just a few clicks
 
 📌 Short description (EN):
-👉 Load playlists (CSV, TXT, M3U, M3U8) 📂, check which stations work 📡, and instantly convert M3U/M3U8 into CSV 💾.
+👉 Got an M3U or M3U8 playlist? 📂 No problem – the app loads it, checks stations 📡 and converts it into CSV 💾.
