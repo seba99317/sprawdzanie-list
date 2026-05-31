@@ -1,0 +1,30 @@
+# Skompilowane pliki
+bin/
+obj/
+# Exe w korzeniu repo — NIE ignoruj (potrzebny do auto-update ze starych wersji)
+# "sprawdzanie list.exe" jest śledzony normalnie
+
+# NuGet packages — przywracane automatycznie przez VS
+packages/
+*.nupkg
+
+# Plik VLC (45MB) — za duzy na GitHub. Buduj lokalnie lub pobierz z VS NuGet.
+**/vlc_x86.zip
+nuget.exe
+
+# Cache stacji — dane uzytkownika, nie czesc kodu zrodlowego
+stations_cache.json
+url_cache.dat
+url_cache.dat
+
+# VS/IDE pliki tymczasowe
+.vs/
+*.user
+*.suo
+*.cache
+*.xml
+*.log
+*.pdb
+
+# Confuser
+Confuser.crproj
