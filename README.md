@@ -68,18 +68,4 @@ Pobierz najnowszą wersję ze strony [**Releases**](https://github.com/seba99317
 
 ---
 
-## 📋 Changelog
 
-### v1.1
-- Wbudowany odtwarzacz LibVLC (MP3, AAC, OGG, HLS, FLAC*)
-- Auto-update — aplikacja sama się aktualizuje
-- Cache stacji (24h) — szybki start
-- Okno wyników otwiera się natychmiast, stacje pojawiają się na żywo
-- Przycisk ▶ przy każdej stacji w oknie wyboru
-- Pasek odtwarzacza z bitrate, statusem i głośnością
-
-### v1.0
-- Pierwsze wydanie
-- Pobieranie z Radio Browser, yoRadio, SomaFM, SHOUTcast, Internet-Radio, rcast.net, OnlineRadioBox
-- Sprawdzanie streamów równolegle
-- Integracja z yoRadio
